@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 📚 **Education**
 - 🌱 SeSAC X TastyCode iOS Bootcamp (Dec 2022 - Present) 
-- 🎓 Soongsil University (Mar 2020 - Present) ![expected](https://img.shields.io/badge/expected-2024.02-lightgrey)<br>
+- 🎓 Soongsil University (Mar 2020 - Present) ![expected](https://img.shields.io/badge/expected-Feb%202024-lightgrey)<br>
     Bachelor of Media & Business Adminstration
 
 <br>
