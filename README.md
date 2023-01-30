@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 <br>
 
 ## ⚙️ **Skills**
-- **iOS** <br>
+- **Main** <br>
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-    <img src="https://img.shields.io/badge/SwiftUI-032899?style=for-the-badge&logo=Swift&logoColor=white">
-    <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
 
 - **Collaboration** <br>
