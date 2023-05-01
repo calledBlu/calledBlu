@@ -32,18 +32,15 @@
   - [Swift Language Guide KR](https://github.com/bbiguduk/Swift_language_guide_kr/pulls?q=is%3Apr+author%3AcalledBlu)
 
 ### Education
-- [[새싹X맛있는코드] iOS 앱 개발자 부트캠프](https://sesac.seoul.kr/course/active/detail.do)
-  - 2022.12 ~ 2023.06 `6개월`, `수료예정`
+- [[새싹X맛있는코드] iOS 앱 개발자 부트캠프](https://sesac.seoul.kr/course/active/detail.do) (2022.12 ~ 2023.06) `6개월`, `수료예정`
   - Swift, UIKit, HIG, Git, Github
   - [프로젝트 보기]()
 
-- [[TECH!T] 멋쟁이사자처럼 앱 스쿨](https://projectlion.io/school/kdt-app-1st)
-  - 2022.09 ~ 2022.12 `4개월`
+- [[TECH!T] 멋쟁이사자처럼 앱 스쿨](https://projectlion.io/school/kdt-app-1st) (2022.09 ~ 2022.12) `4개월`
   - Swift, SwiftUI, HIG, Git, Github
   - [프로젝트 보기]()
 
-- 숭실대학교
-  - 2020.03 ~ 2024.02 `졸업예정`
+- 숭실대학교 (2020.03 ~ 2024.02) `졸업예정`
   - 미디어 경영학과
   - 성적우수 장학금 수혜
 
