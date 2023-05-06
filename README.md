@@ -1,5 +1,5 @@
 ### iOS Developer
-- Hello, World!
+- Hello, I'm `resizable` iOS Developer, Bomi Kim! (is Called Blu💙)
 
 ### Community Experience
   - [Google Developer Students Club Soongsil](https://sites.google.com/view/gdscsoongsil/home?authuser=0&pli=1) (2021.09-2022.08) `1년`
