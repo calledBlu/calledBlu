@@ -1,4 +1,4 @@
-### iOS Developer
+## iOS Developer
 - Hello, I'm `resizable` iOS Developer, Bomi Kim! (is Called Blu💙)
 
 ### 커뮤니티 경험
